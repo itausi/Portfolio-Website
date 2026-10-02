@@ -7,7 +7,7 @@ import { Terminal, Cpu, Database, Network } from "lucide-react";
 const SOCIAL_LINKS = [
   {
     name: "GitHub",
-    href: "https://github.com/Tauseef-Hilal",
+    href: "https://github.com/itausi",
     icon: FaGithub,
   },
   {

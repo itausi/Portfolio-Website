@@ -28,7 +28,7 @@ export default function Footer() {
               </Link>
             </li>
             <li>
-              <Link href="https://github.com/Tauseef-Hilal" target="_blank" className="text-sm text-foreground hover:text-primary transition-colors">
+              <Link href="https://github.com/itausi" target="_blank" className="text-sm text-foreground hover:text-primary transition-colors">
                 GitHub
               </Link>
             </li>
